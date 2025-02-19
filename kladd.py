@@ -1,6 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+//test
+
 class Line:
   def __init__(self, length, angle):
     self.length = length
